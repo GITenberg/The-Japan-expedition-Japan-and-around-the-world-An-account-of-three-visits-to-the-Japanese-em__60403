@@ -1,11 +1,16 @@
 _repo: The-Japan-expedition-Japan-and-around-the-world-An-account-of-three-visits-to-the-Japanese-em__60403
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 60403-h/images/cover.jpg
 creator:
   author:
     agent_name: Spalding, J. W. (J. Willett)
     gutenberg_agent_id: '50947'
     url: http://www.gutenberg.org/2009/agents/50947
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60403#The-Japan-expedition-Japan-and-around-the-world-An-account-of-three-visits-to-the-Japanese-em_
 gutenberg_issued: '2019-10-01'
 gutenberg_type: Text
 identifiers:
